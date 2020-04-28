@@ -13,7 +13,7 @@ while True: #This statement denotes the condition that the loop is going to exec
         fal=float(val)
     except:
         print("Invalid data")
-        count=count-1 #Added this statement to remove the invalid data counts from the final count.
+        continue #Moves to the top of the loop
 
     count=count+1
     sum=sum+fal
