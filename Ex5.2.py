@@ -9,11 +9,11 @@ while True:
         fgit=float(digit)
     except:
         print("Enter a numeric value")
-        continue
+        continue # Moves back to the top of the loop to be able to continue
     if max is None:
-        max = fgit #Assigning the numeric value
+        max = fgit #Assigning a numeric value.
     if min is None:
-        min = fgit #Assigning the numeric value
+        min = fgit #Assigning a numeric value.
     if fgit > max:
         max = fgit
     elif fgit < min:
