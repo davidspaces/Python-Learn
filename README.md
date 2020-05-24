@@ -1,4 +1,4 @@
-# Python
-Worked exercises for Python
+Learning Python journey
 
-This is a workup of exercises for Learning Python course on Python
+This is my github to document my knowledge of python from various sources.
+There are multiple things to be dealth with and I will add exercises from different teachers on this git. 
