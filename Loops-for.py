@@ -1,5 +1,6 @@
-zork=0
-print ("Before",zork)
+# Learn more about loops in Python - This example works the for loop
+zork=0 #Assignment variable is set to zero
+print ("Before",zork) 
 for thing in [9,41,12,3,74,15]:
     zork=zork+1
     print (zork,thing)
