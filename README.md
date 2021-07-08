@@ -1,4 +1,4 @@
-#Learning Python journey
+# Learning Python journey
 
 This is my GitHub to document my knowledge of python from various sources.
 
