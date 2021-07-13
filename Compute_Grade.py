@@ -11,7 +11,6 @@ def computegrade(score):
       print ("D Grade")
     elif score <0.6:
       print ("F Grade")
-      return
 
 scr=input("Enter score to know your grade:")
 try:
