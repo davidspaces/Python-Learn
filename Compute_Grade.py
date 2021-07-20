@@ -18,3 +18,4 @@ try:
     computegrade(scr)
 except:
     print("Bad score")
+    #prints bad score and exits out
